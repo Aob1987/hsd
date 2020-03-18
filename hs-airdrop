@@ -1,0 +1,4 @@
+$ git clone https://github.com/handshake-org/hs-airdrop.git
+$ cd hs-airdrop && npm install
+$ ls ~/.ssh/aob1987
+$ ./bin/hs-airdrop <path to key> <hs1qmzajz6p9d7a4n5ffnl4e2hkqer5g8w5razu2cf> <0.010>
